@@ -8,9 +8,9 @@ namespace TutorialApp
     {
     public:
 		virtual void OnGameFullStart() final;
-        virtual void OnGameStart() final;
+		virtual void OnGameStart() final;
 		virtual void OnGameEnd() final;
-        virtual void OnStep() final;
+		virtual void OnStep() final;
 		virtual void OnUnitDestroyed(const sc2::Unit&) final;
 		virtual void OnUnitCreated(const sc2::Unit&) final;
 		virtual void OnUnitIdle(const sc2::Unit&) final;
