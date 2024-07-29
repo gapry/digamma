@@ -1,10 +1,7 @@
-## Introduction
-It's **my study notes** for [the official tutorials](https://github.com/Blizzard/s2client-api/tree/master/docs)
-
-## Setup
-Please follow [the official document](https://github.com/Blizzard/s2client-api/blob/master/docs/building.md)
-
-## References
+## Learning Resources
+- [StarCraft II API](https://github.com/Blizzard/s2client-api/)
+- [Collection of Starcraft II C++ API tools and libraries](https://github.com/cpp-sc2)
+- [Dave Churchill](https://www.cs.mun.ca/~dchurchill/)
 - [StarAi: Deep Reinforcement Learning Course](https://www.starai.io/course/)
 - [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 - [Connecting Torch to StarCraft](https://github.com/TorchCraft/TorchCraft)
